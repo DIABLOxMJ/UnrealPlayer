@@ -1,0 +1,35 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.4
+Date: 07.03.2021
+  Bugfixes:
+    - Fixed incorrect default value
+---------------------------------------------------------------------------------------------------
+Version: 0.0.3
+Date: 07.03.2021
+  Bugfixes:
+    - Fixed an error in the command that prevents it from working in multiplayer
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 07.03.2021
+  Changes:
+    - Added Always days
+    - Added Command for Multiplayer
+  Bugfixes:
+    - Missing equipment icons not showing up correctly.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 07.03.2021
+  Changes:
+    - Added basic operation
+    - Added Life point
+    - Added Interaction distance with the environment
+    - Added Interaction distance with objects on the ground
+    - Added Deconstruction / destruction speed multiplier
+    - Added Manufacturing speed multiplier
+    - Added Number of locations in the inventory
+    - Added Number of places in the trash
+    - Added Increased efficiency of drilling rigs
+    - Added Increased laboratory speed
+    - Added Increased laboratory efficiency
+    - Added Increased movement speed
+---------------------------------------------------------------------------------------------------
